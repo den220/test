@@ -1,1 +1,41 @@
+body{
+  font-family: sans-serif;
+}
 
+menu {
+
+  background: white;
+}
+
+menu a{
+  text-decoration: 0;
+  color: grey;
+}
+
+body{
+  background: grey;
+}
+
+main t_i{
+  text-align: center;
+}
+
+footer{
+  background: white;
+}
+
+footer table{
+  background: grey;
+  border: 1px solid burlywood;
+  border-collapse: collapse;
+}
+
+footer th{
+  background: burlywood;
+  border: 1px solid black;
+}
+
+footer td{
+  background: burlywood;
+  border: 1px solid black;
+}
